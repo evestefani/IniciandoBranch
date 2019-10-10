@@ -1,3 +1,4 @@
 1 - Gol
 2 - Uno
 3 - Ka
+4 - Kwid
